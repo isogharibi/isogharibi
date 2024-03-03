@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on vingoy **vingoy**
 
-- 💬 Ask me about **css , tailwind , html , bootstrap**
+- 💬 Ask me about **css , tailwind , html , bootstrap , javascript , react , github , git**
 
 - 📫 How to reach me **gharibi69068@mail.com**
 
